@@ -5,7 +5,9 @@ Requires user to have python installed
 
 ## How to operate
 Navigate to the folder containing the files, and then in the terminal, type 
+
 >python main.py
+
 in order to run the main function.
 
 Input a person's name, and then click Enter, a new line will be created.
