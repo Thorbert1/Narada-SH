@@ -11,6 +11,7 @@ Navigate to the folder containing the files, and then in the terminal, type
 in order to run the main function.
 
 
+
 - Input a person's name, and then click Enter, a new line will be created.
 
 - Type in as many names as you want, separating each one with a new line.
