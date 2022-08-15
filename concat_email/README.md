@@ -10,10 +10,11 @@ Navigate to the folder containing the files, and then in the terminal, type
 
 in order to run the main function.
 
-Input a person's name, and then click Enter, a new line will be created.
 
-Type in as many names as you want, separating each one with a new line.
+- Input a person's name, and then click Enter, a new line will be created.
 
-After you're done inputting names, press ` Ctrl + Z ` on your keyboard to end the input.
+- Type in as many names as you want, separating each one with a new line.
 
-The script should copy the list of emails onto your clipboard, which can be accessed by pressing ` Win + V `
+- After you're done inputting names, press ` Ctrl + Z ` on your keyboard to end the input.
+
+- The script should copy the list of emails onto your clipboard, which can be accessed by pressing ` Win + V `
