@@ -4,8 +4,8 @@ Could be useful for practicing for Mandarin spelling tests on your own.
 Requires the user to have python installed and running.
 
 
-Once you do have python installed, simply navigate to the file folder through the terminal, and type out
+  Once you do have python installed, simply navigate to the file folder through the terminal, and type out
 
-python main.py
+  python main.py
 
-in order to run the main function.
+  in order to run the main function.
